@@ -1,0 +1,2 @@
+time_o,action_o,price_o,time_c,action_c,price_c,sign,pnl,fee,net_pnl,return,cum_return
+2024-11-27 10:31:12.500,BTO,3854.0,2024-11-27 15:00:00,BTC,3901.0,1,47.0,0.178365,46.821635,0.012148841463414634,0.012148841463414634

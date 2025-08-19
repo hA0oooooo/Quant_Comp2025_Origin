@@ -1,0 +1,2 @@
+time_o,action_o,price_o,time_c,action_c,price_c,sign,pnl,fee,net_pnl,return,cum_return
+2024-11-15 10:33:15.500,STO,6224.0,2024-11-15 15:00:00.500,STC,6103.0,-1,121.0,0.283521,120.716479,0.019395321176092547,0.019395321176092547

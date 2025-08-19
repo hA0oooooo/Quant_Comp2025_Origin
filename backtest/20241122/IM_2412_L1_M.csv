@@ -1,0 +1,2 @@
+time_o,action_o,price_o,time_c,action_c,price_c,sign,pnl,fee,net_pnl,return,cum_return
+2024-11-22 10:31:42.500,STO,6160.2,2024-11-22 15:00:00,STC,5951.2,-1,209.0,0.2785622,208.7214378,0.03388225021914873,0.03388225021914873

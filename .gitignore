@@ -1,0 +1,25 @@
+# 忽略大文件
+*.csv
+*.pdf
+
+# 忽略数据文件夹
+backtest/*/
+future_L2/*/
+
+# Python缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
